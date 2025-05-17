@@ -1,0 +1,892 @@
+﻿PassengerId;Survived;Pclass;Name;Sex;Birthdate;PassengerPreferences
+1;0;3;Mr. Owen Harris Braund;male;28/01/1890;Non Vegetarian - Swimming Pool - Painting - Fishing
+2;1;1;Mrs. John Bradley (Florence Briggs Thayer) Cumings;female;22/10/1874;Gym - Upper Deck
+3;1;3;Miss. Laina Heikkinen;female;04/12/1886;Archery - Cycling - Vegetarian - Bird Watching
+4;1;1;Mrs. Jacques Heath (Lily May Peel) Futrelle;female;22/06/1877;Sailing - Gym
+5;0;3;Mr. William Henry Allen;male;22/01/1877;Sailing - Library - Wine Tasting - Vegetarian
+6;0;3;Mr. James Moran;male;27/07/1888;Skiing
+7;0;1;Mr. Timothy J McCarthy;male;04/12/1858;Stargazing - Rock Climbing - Private Cabin - Archery
+8;0;3;Master. Gosta Leonard Palsson;male;05/04/1899;Fishing
+9;1;3;Mrs. Oscar W (Elisabeth Vilhelmina Berg) Johnson;female;17/12/1885;Writing - Gardening
+10;1;2;Mrs. Nicholas (Adele Achem) Nasser;female;03/08/1898;Horseback Riding - Photography
+11;1;3;Miss. Marguerite Rut Sandstrom;female;08/09/1898;Painting - Bar
+12;1;1;Miss. Elizabeth Bonnell;female;19/10/1854;Window Seat - Cycling
+13;0;3;Mr. William Henry Saundercock;male;19/12/1892;Wine Tasting
+14;0;3;Mr. Anders Johan Andersson;male;08/12/1873;Bar - Gym - Archery - Fishing
+15;0;3;Miss. Hulda Amanda Adolfina Vestrom;female;27/08/1898;Chess - Bar - Golf
+16;1;2;Mrs. (Mary D Kingcome) Hewlett;female;21/03/1857;Bird Watching - Gym - Cinema
+17;0;3;Master. Eugene Rice;male;07/11/1893;Pottery
+18;1;2;Mr. Charles Eugene Williams;male;06/02/1888;Scuba Diving
+19;0;3;Mrs. Julius (Emelia Maria Vandemoortele) Vander Planke;female;24/02/1881;Surfing - Knitting
+20;1;3;Mrs. Fatima Masselmani;female;04/07/1862;Gardening - Bird Watching
+21;0;2;Mr. Joseph J Fynney;male;25/11/1877;Crafting - Dancing - Private Cabin
+22;1;2;Mr. Lawrence Beesley;male;08/12/1878;Fishing - Dancing
+23;1;3;"Miss. Anna ""Annie"" McGowan";female;14/01/1897;Crafting - Dancing - Reading - Swimming Pool
+24;1;1;Mr. William Thompson Sloper;male;21/09/1884;Rock Climbing - Surfing
+25;0;3;Miss. Torborg Danira Palsson;female;16/07/1836;Cinema - Bird Watching - Yoga
+26;1;3;Mrs. Carl Oscar (Selma Augusta Emilia Johansson) Asplund;female;14/09/1874;Yoga
+27;0;3;Mr. Farred Chehab Emir;male;13/11/1864;Photography - Cycling
+28;0;1;Mr. Charles Alexander Fortune;male;22/06/1893;Gluten Free
+29;1;3;"Miss. Ellen ""Nellie"" O'Dwyer";female;25/09/1866;Vegan - Stargazing - Crafting - Gardening
+30;0;3;Mr. Lalio Todoroff;male;04/11/1870;Tennis
+31;0;1;Don. Manuel E Uruchurtu;male;27/02/1872;Meditation
+32;1;1;Mrs. William Augustus (Marie Eugenie) Spencer;female;17/05/1876;Painting
+33;1;3;Miss. Mary Agatha Glynn;female;02/12/1886;Hiking
+34;0;2;Mr. Edward H Wheadon;male;18/06/1846;Painting
+35;0;1;Mr. Edgar Joseph Meyer;male;27/08/1884;Archery - Cycling
+36;0;1;Mr. Alexander Oskar Holverson;male;06/01/1870;Sailing - Running
+37;1;3;Mr. Hanna Mamee;male;07/04/1878;Crafting - Meditation - Window Seat - Board Games
+38;0;3;Mr. Ernest Charles Cann;male;10/08/1891;Yoga
+39;0;3;Miss. Augusta Maria Vander Planke;female;09/08/1894;Non Vegetarian - Golf - Meditation - Cinema
+40;1;3;Miss. Jamila Nicola-Yarred;female;11/10/1898;Running - Meditation - Gluten Free - Fishing
+41;0;3;Mrs. Johan (Johanna Persdotter Larsson) Ahlin;female;18/11/1872;Vegetarian - Swimming Pool
+42;0;2;Mrs. William John Robert (Dorothy Ann Wonnacott) Turpin;female;17/06/1885;Dancing - Private Cabin - Cinema - Stargazing
+43;0;3;Mr. Theodor Kraeff;male;13/12/1882;Gym
+44;1;2;Miss. Simonne Marie Anne Andree Laroche;female;14/12/1863;Bar - Swimming Pool - Stargazing
+45;1;3;Miss. Margaret Delia Devaney;female;03/12/1893;Running - Private Cabin - Library
+46;0;3;Mr. William John Rogers;male;05/12/1887;Cycling
+47;0;3;Mr. Denis Lennon;male;26/10/1883;Board Games - Music
+48;1;3;Miss. Bridget O'Driscoll;female;17/08/1886;Sailing - Bar - Scuba Diving
+49;0;3;Mr. Youssef Samaan;male;22/01/1870;Vegetarian - Sailing - Horseback Riding
+50;0;3;Mrs. Josef (Josefine Franchi) Arnold-Franchi;female;20/05/1894;Stargazing - Private Cabin - Upper Deck - Cinema
+51;0;3;Master. Juha Niilo Panula;male;13/10/1894;Cycling
+52;0;3;Mr. Richard Cater Nosworthy;male;11/01/1891;Vegan - Knitting - Surfing
+53;1;1;Mrs. Henry Sleeper (Myna Haxtun) Harper;female;24/04/1863;Aisle Seat - Horseback Riding
+54;1;2;Mrs. Lizzie (Elizabeth Anne Wilkinson) Faunthorpe;female;17/02/1883;Window Seat
+55;0;1;Mr. Engelhart Cornelius Ostby;male;13/02/1847;Cooking - Vegan - Gluten Free - Pottery
+56;1;1;Mr. Hugh Woolner;male;14/12/1894;Golf
+57;1;2;Miss. Emily Rugg;female;08/08/1891;Gluten Free
+58;0;3;Mr. Mansouer Novel;male;14/05/1884;Knitting
+59;1;2;Miss. Constance Mirium West;female;09/09/1863;Painting - Vegetarian - Stargazing
+60;0;3;Master. William Frederick Goodwin;male;10/07/1870;Golf - Vegetarian
+61;0;3;Mr. Orsen Sirayanian;male;26/04/1890;Chess
+62;1;1;Miss. Amelie Icard;female;14/03/1874;Horseback Riding
+63;0;1;Mr. Henry Birkhardt Harris;male;06/10/1867;Vegan - Skiing
+64;0;3;Master. Harald Skoog;male;07/06/1891;Board Games
+65;0;1;Mr. Albert A Stewart;male;16/10/1862;Tennis
+66;1;3;Master. Gerios Moubarek;male;03/06/1893;Gluten Free - Cinema - Crafting
+67;1;2;Mrs. (Elizabeth Ramell) Nye;female;12/01/1883;Gym
+68;0;3;Mr. Ernest James Crease;male;22/03/1893;Vegetarian
+69;1;3;Miss. Erna Alexandra Andersson;female;13/01/1895;Cooking - Yoga - Tennis
+70;0;3;Mr. Vincenz Kink;male;17/07/1886;Reading - Scuba Diving
+71;0;2;Mr. Stephen Curnow Jenkin;male;06/09/1880;Crafting - Aisle Seat - Meditation - Tennis
+72;0;3;Miss. Lillian Amy Goodwin;female;04/08/1896;Reading
+73;0;2;Mr. Ambrose Jr Hood;male;01/07/1891;Running - Tennis - Upper Deck
+74;0;3;Mr. Apostolos Chronopoulos;male;10/11/1886;Reading - Yoga
+75;1;3;Mr. Lee Bing;male;26/11/1880;Rock Climbing - Bird Watching - Hiking
+76;0;3;Mr. Sigurd Hansen Moen;male;05/12/1887;Cinema - Horseback Riding
+77;0;3;Mr. Ivan Staneff;male;21/10/1872;Writing
+78;0;3;Mr. Rahamin Haim Moutal;male;09/05/1884;Cinema - Board Games
+79;1;2;Master. Alden Gates Caldwell;male;08/07/1866;Board Games - Music - Photography - Upper Deck
+80;1;3;Miss. Elizabeth Dowdell;female;20/07/1882;Swimming Pool - Painting
+81;0;3;Mr. Achille Waelens;male;06/06/1890;Crafting - Fishing
+82;1;3;Mr. Jan Baptist Sheerlinck;male;13/04/1883;Knitting - Cinema - Vegetarian - Cooking
+83;1;3;Miss. Brigdet Delia McDermott;female;06/01/1887;Pottery
+84;0;1;Mr. Francisco M Carrau;male;06/04/1884;Upper Deck - Yoga
+85;1;2;Miss. Bertha Ilett;female;16/07/1895;Non Vegetarian
+86;1;3;Mrs. Karl Alfred (Maria Mathilda Gustafsson) Backstrom;female;02/06/1879;Rock Climbing
+87;0;3;Mr. William Neal Ford;male;20/09/1896;Golf - Knitting - Fishing - Wine Tasting
+88;0;3;Mr. Selman Francis Slocovski;male;12/03/1870;Scuba Diving - Horseback Riding
+89;1;1;Miss. Mabel Helen Fortune;female;14/03/1889;Surfing - Knitting - Window Seat
+90;0;3;Mr. Francesco Celotti;male;13/08/1888;Board Games - Upper Deck - Cycling - Vegetarian
+91;0;3;Mr. Emil Christmann;male;27/08/1883;Gardening - Non Vegetarian - Swimming Pool - Meditation
+92;0;3;Mr. Paul Edvin Andreasson;male;25/07/1892;Upper Deck - Board Games - Rock Climbing - Sailing
+93;0;1;Mr. Herbert Fuller Chaffee;male;27/05/1866;Upper Deck - Cinema - Private Cabin
+94;0;3;Mr. Bertram Frank Dean;male;06/03/1886;Gardening - Cycling - Bar
+95;0;3;Mr. Daniel Coxon;male;03/05/1853;Cooking - Fishing - Tennis
+96;0;3;Mr. Charles Joseph Shorney;male;16/01/1887;Tennis - Bar - Cinema - Gardening
+97;0;1;Mr. George B Goldschmidt;male;20/02/1841;Board Games - Scuba Diving - Skiing
+98;1;1;Mr. William Bertram Greenfield;male;26/06/1889;Golf - Gym - Tennis
+99;1;2;Mrs. John T (Ada Julia Bone) Doling;female;19/11/1878;Tennis - Gluten Free
+100;0;2;Mr. Sinai Kantor;male;24/05/1878;Chess - Reading - Pottery - Window Seat
+101;0;3;Miss. Matilda Petranec;female;27/01/1884;Stargazing - Fishing
+102;0;3;"Mr. Pastcho (""Pentcho"") Petroff";male;24/04/1879;Golf
+103;0;1;Mr. Richard Frasar White;male;24/03/1891;Knitting - Crafting - Meditation - Shared Cabin
+104;0;3;Mr. Gustaf Joel Johansson;male;28/07/1879;Fishing - Board Games - Bird Watching - Cooking
+105;0;3;Mr. Anders Vilhelm Gustafsson;male;25/09/1875;Library - Skiing
+106;0;3;Mr. Stoytcho Mionoff;male;12/08/1884;Bar - Yoga - Cooking
+107;1;3;Miss. Anna Kristine Salkjelsvik;female;10/02/1891;Private Cabin - Upper Deck - Scuba Diving - Skiing
+108;1;3;Mr. Albert Johan Moss;male;23/06/1871;Bar - Gym - Gluten Free
+109;0;3;Mr. Tido Rekic;male;09/03/1874;Skiing
+110;1;3;Miss. Bertha Moran;female;11/08/1890;Scuba Diving
+111;0;1;Mr. Walter Chamberlain Porter;male;19/12/1865;Photography
+112;0;3;Miss. Hileni Zabour;female;17/06/1898;Writing - Rock Climbing - Non Vegetarian
+113;0;3;Mr. David John Barton;male;21/08/1890;Chess - Painting
+114;0;3;Miss. Katriina Jussila;female;07/05/1892;Sailing - Bar - Rock Climbing - Crafting
+115;0;3;Miss. Malake Attalah;female;20/04/1895;Music - Knitting - Upper Deck - Library
+116;0;3;Mr. Edvard Pekoniemi;male;03/10/1891;Horseback Riding - Writing - Pottery
+117;0;3;Mr. Patrick Connors;male;20/06/1842;Reading - Shared Cabin
+118;0;2;Mr. William John Robert Turpin;male;06/08/1883;Gym - Library - Golf
+119;0;1;Mr. Quigg Edmond Baxter;male;24/05/1888;Window Seat - Vegetarian - Wine Tasting - Cycling
+120;0;3;Miss. Ellis Anna Maria Andersson;female;08/03/1896;Window Seat - Pottery - Skiing - Upper Deck
+121;0;2;Mr. Stanley George Hickman;male;04/01/1891;Tennis - Gardening - Shared Cabin - Fishing
+122;0;3;Mr. Leonard Charles Moore;male;03/05/1862;Vegan - Gym - Pottery - Music
+123;0;2;Mr. Nicholas Nasser;male;23/07/1880;Library - Non Vegetarian - Cinema - Bird Watching
+124;1;2;Miss. Susan Webber;female;19/04/1880;Cycling - Knitting
+125;0;1;Mr. Percival Wayland White;male;23/11/1858;Window Seat - Golf
+126;1;3;Master. Elias Nicola-Yarred;male;22/10/1892;Window Seat - Golf
+127;0;3;Mr. Martin McMahon;male;06/02/1867;Gluten Free - Shared Cabin - Hiking
+128;1;3;Mr. Fridtjof Arne Madsen;male;08/05/1888;Dancing - Horseback Riding - Meditation - Non Vegetarian
+129;1;3;Miss. Anna Peter;female;04/09/1878;Skiing - Photography - Fishing - Chess
+130;0;3;Mr. Johan Ekstrom;male;28/10/1867;Dancing - Window Seat - Surfing - Non Vegetarian
+131;0;3;Mr. Jozef Drazenoic;male;27/03/1879;Yoga - Hiking
+132;0;3;Mr. Domingos Fernandeo Coelho;male;11/05/1892;Hiking - Tennis
+133;0;3;Mrs. Alexander A (Grace Charity Laury) Robins;female;23/12/1865;Sailing
+134;1;2;Mrs. Leopold (Mathilde Francoise Pede) Weisz;female;28/09/1883;Vegetarian - Cycling - Knitting - Hiking
+135;0;2;Mr. Samuel James Hayden Sobey;male;06/09/1887;Meditation
+136;0;2;Mr. Emile Richard;male;09/01/1889;Window Seat - Golf - Meditation - Chess
+137;1;1;Miss. Helen Monypeny Newsom;female;23/12/1893;Cinema - Stargazing
+138;0;1;Mr. Jacques Heath Futrelle;male;19/11/1875;Gardening - Aisle Seat
+139;0;3;Mr. Olaf Elon Osen;male;06/04/1896;Music - Writing - Bird Watching - Photography
+140;0;1;Mr. Victor Giglio;male;07/09/1888;Sailing - Crafting
+141;0;3;Mrs. Joseph (Sultana) Boulos;female;05/12/1887;Tennis
+142;1;3;Miss. Anna Sofia Nysten;female;02/12/1890;Swimming Pool
+143;1;3;Mrs. Pekka Pietari (Elin Matilda Dolck) Hakkarainen;female;01/11/1888;Gluten Free
+144;0;3;Mr. Jeremiah Burke;male;26/11/1893;Vegan - Running - Music
+145;0;2;Mr. Edgardo Samuel Andrew;male;18/02/1894;Gardening - Horseback Riding - Swimming Pool
+146;0;2;Mr. Joseph Charles Nicholls;male;08/12/1893;Golf - Vegan - Painting
+147;1;3;"Mr. August Edvard (""Wennerstrom"") Andersson";male;08/01/1885;Gluten Free - Swimming Pool
+148;0;3;"Miss. Robina Maggie ""Ruby"" Ford";female;08/05/1836;Skiing - Aisle Seat
+149;0;2;"Mr. Michel (""Louis M Hoffman"") Navratil";male;13/09/1876;Shared Cabin - Rock Climbing
+150;0;2;Rev. Thomas Roussel Davids Byles;male;01/09/1870;Knitting - Gardening - Yoga - Vegan
+151;0;2;Rev. Robert James Bateman;male;09/10/1861;Reading - Library
+152;1;1;Mrs. Thomas (Edith Wearne) Pears;female;05/05/1890;Cinema - Rock Climbing
+153;0;3;Mr. Alfonzo Meo;male;18/03/1857;Cinema
+154;0;3;Mr. Austin Blyler van Billiard;male;19/03/1872;Photography - Library
+155;0;3;Mr. Ole Martin Olsen;male;27/02/1888;Gardening
+156;0;1;Mr. Charles Duane Williams;male;14/03/1861;Hiking - Aisle Seat - Pottery
+157;1;3;"Miss. Katherine ""Katie"" Gilnagh";female;12/01/1896;Music - Wine Tasting - Upper Deck - Bar
+158;0;3;Mr. Harry Corn;male;12/05/1882;Cycling
+159;0;3;Mr. Mile Smiljanic;male;19/10/1880;Hiking
+160;0;3;Master. Thomas Henry Sage;male;20/09/1865;Sailing
+161;0;3;Mr. John Hatfield Cribb;male;03/04/1868;Writing
+162;1;2;"Mrs. James (Elizabeth ""Bessie"" Inglis Milne) Watt";female;22/09/1872;Tennis
+163;0;3;Mr. John Viktor Bengtsson;male;20/09/1886;Cooking - Music - Crafting - Rock Climbing
+164;0;3;Mr. Jovo Calic;male;02/04/1895;Rock Climbing - Running - Cooking
+165;0;3;Master. Eino Viljami Panula;male;07/10/1894;Shared Cabin
+166;1;3;"Master. Frank John William ""Frankie"" Goldsmith";male;08/11/1895;Cinema - Photography - Gardening - Pottery
+167;1;1;Mrs. (Edith Martha Bowerman) Chibnall;female;14/03/1885;Surfing - Vegan - Running
+168;0;3;Mrs. William (Anna Bernhardina Karlsson) Skoog;female;17/05/1867;Shared Cabin - Gluten Free - Music - Archery
+169;0;1;Mr. John D Baumann;male;25/01/1884;Reading
+170;0;3;Mr. Lee Ling;male;11/09/1884;Skiing - Chess
+171;0;1;Mr. Wyckoff Van der hoef;male;26/03/1851;Cooking - Rock Climbing
+172;0;3;Master. Arthur Rice;male;28/09/1892;Swimming Pool - Library
+173;1;3;Miss. Eleanor Ileen Johnson;female;20/01/1894;Photography - Library - Sailing
+174;0;3;Mr. Antti Wilhelm Sivola;male;26/09/1891;Private Cabin - Reading
+175;0;1;Mr. James Clinch Smith;male;03/08/1856;Painting - Knitting - Swimming Pool
+176;0;3;Mr. Klas Albin Klasen;male;23/01/1894;Gardening - Scuba Diving
+177;0;3;Master. Henry Forbes Lefebre;male;24/05/1866;Gluten Free
+178;0;1;Miss. Ann Elizabeth Isham;female;24/06/1862;Gym
+179;0;2;Mr. Reginald Hale;male;25/11/1882;Stargazing
+180;0;3;Mr. Lionel Leonard;male;27/07/1876;Fishing - Pottery - Cinema - Yoga
+181;0;3;Miss. Constance Gladys Sage;female;05/10/1890;Wine Tasting - Board Games
+182;0;2;Mr. Rene Pernot;male;08/08/1874;Private Cabin - Gluten Free - Horseback Riding
+183;0;3;Master. Clarence Gustaf Hugo Asplund;male;08/08/1895;Aisle Seat - Vegan - Archery - Pottery
+184;1;2;Master. Richard F Becker;male;01/01/1890;Painting
+185;1;3;Miss. Luise Gretchen Kink-Heilmann;female;04/05/1893;Gym
+186;0;1;Mr. Hugh Roscoe Rood;male;06/02/1886;Cooking - Gluten Free - Wine Tasting - Running
+187;1;3;"Mrs. Thomas (Johanna ""Hannah"" Godfrey) O'Brien";female;21/02/1867;Gym - Vegan - Painting
+188;1;1;"Mr. Charles Hallace (""Mr C Rolmane"") Romaine";male;18/04/1867;Gluten Free - Golf
+189;0;3;Mr. John Bourke;male;10/03/1872;Skiing
+190;0;3;Mr. Stjepan Turcin;male;25/09/1876;Upper Deck
+191;1;2;Mrs. (Rosa) Pinsky;female;26/02/1880;Cooking - Sailing - Pottery
+192;0;2;Mr. William Carbines;male;06/06/1893;Reading - Horseback Riding
+193;1;3;Miss. Carla Christine Nielsine Andersen-Jensen;female;20/01/1893;Writing - Gardening - Dancing
+194;1;2;Master. Michel M Navratil;male;09/10/1894;Skiing - Vegan
+195;1;1;Mrs. James Joseph (Margaret Tobin) Brown;female;21/12/1868;Cycling - Upper Deck
+196;1;1;Miss. Elise Lurette;female;14/10/1854;Window Seat
+197;0;3;Mr. Robert Mernagh;male;17/09/1882;Running - Board Games - Library
+198;0;3;Mr. Karl Siegwart Andreas Olsen;male;05/06/1870;Horseback Riding
+199;1;3;"Miss. Margaret ""Maggie"" Madigan";female;21/08/1893;Writing - Crafting - Gym - Board Games
+200;0;2;"Miss. Henriette (""Mrs Harbeck"") Yrois";female;16/07/1888;Upper Deck - Dancing
+201;0;3;Mr. Nestor Cyriel Vande Walle;male;14/04/1884;Yoga - Skiing - Reading - Writing
+202;0;3;Mr. Frederick Sage;male;10/07/1878;Meditation
+203;0;3;Mr. Jakob Alfred Johanson;male;13/12/1878;Golf
+204;0;3;Mr. Gerious Youseff;male;09/05/1867;Bar - Non Vegetarian
+205;1;3;"Mr. Gurshon ""Gus"" Cohen";male;04/02/1894;Chess - Golf - Bar
+206;0;3;Miss. Telma Matilda Strom;female;16/11/1897;Photography - Surfing - Cooking - Running
+207;0;3;Mr. Karl Alfred Backstrom;male;09/03/1880;Fishing - Shared Cabin
+208;1;3;Mr. Nassef Cassem Albimona;male;14/05/1886;Wine Tasting
+209;1;3;"Miss. Helen ""Ellen"" Carr";female;24/08/1896;Photography - Gluten Free
+210;1;1;Mr. Henry Blank;male;17/06/1872;Aisle Seat - Gardening - Library - Scuba Diving
+211;0;3;Mr. Ahmed Ali;male;28/09/1888;Swimming Pool - Board Games - Rock Climbing
+212;1;2;Miss. Clear Annie Cameron;female;03/04/1877;Stargazing - Reading - Non Vegetarian
+213;0;3;Mr. John Henry Perkin;male;16/11/1890;Shared Cabin - Gardening - Photography
+214;0;2;Mr. Hans Kristensen Givard;male;17/09/1882;Chess
+215;0;3;Mr. Philip Kiernan;male;14/12/1887;Dancing - Chess
+216;1;1;Miss. Madeleine Newell;female;09/12/1881;Aisle Seat - Cycling
+217;1;3;Miss. Eliina Honkanen;female;06/06/1885;Wine Tasting - Stargazing - Cooking - Horseback Riding
+218;0;2;Mr. Sidney Samuel Jacobsohn;male;22/01/1870;Archery - Library
+219;1;1;Miss. Albina Bazzani;female;21/02/1880;Running - Stargazing - Skiing
+220;0;2;Mr. Walter Harris;male;20/09/1882;Private Cabin - Hiking
+221;1;3;Mr. Victor Francis Sunderland;male;14/12/1896;Sailing - Fishing
+222;0;2;Mr. James H Bracken;male;18/02/1885;Running - Meditation - Bar - Non Vegetarian
+223;0;3;Mr. George Henry Green;male;04/11/1861;Scuba Diving - Gluten Free
+224;0;3;Mr. Christo Nenkoff;male;25/07/1867;Vegetarian - Gluten Free - Swimming Pool - Horseback Riding
+225;1;1;Mr. Frederick Maxfield Hoyt;male;23/01/1874;Golf
+226;0;3;Mr. Karl Ivar Sven Berglund;male;12/03/1890;Pottery - Chess - Golf - Skiing
+227;1;2;Mr. William John Mellors;male;22/01/1893;Knitting - Gym - Cooking - Painting
+228;0;3;"Mr. John Hall (""Henry"") Lovell";male;07/10/1892;Window Seat - Yoga - Running - Archery
+229;0;2;Mr. Arne Jonas Fahlstrom;male;24/12/1894;Gluten Free - Tennis
+230;0;3;Miss. Mathilde Lefebre;female;04/02/1879;Aisle Seat - Chess
+231;1;1;Mrs. Henry Birkhardt (Irene Wallach) Harris;female;22/03/1877;Writing - Aisle Seat
+232;0;3;Mr. Bengt Edvin Larsson;male;19/05/1883;Stargazing - Window Seat
+233;0;2;Mr. Ernst Adolf Sjostedt;male;21/09/1853;Library - Photography - Skiing - Writing
+234;1;3;Miss. Lillian Gertrud Asplund;female;07/10/1894;Running - Scuba Diving
+235;0;2;Mr. Robert William Norman Leyson;male;09/08/1888;Vegetarian - Window Seat
+236;0;3;Miss. Alice Phoebe Harknett;female;19/05/1878;Aisle Seat - Horseback Riding
+237;0;2;Mr. Stephen Hold;male;03/06/1868;Skiing - Wine Tasting - Cinema
+238;1;2;"Miss. Marjorie ""Lottie"" Collyer";female;19/08/1896;Shared Cabin - Vegan - Painting
+239;0;2;Mr. Frederick William Pengelly;male;17/03/1893;Golf
+240;0;2;Mr. George Henry Hunt;male;20/03/1879;Pottery - Scuba Diving - Golf - Horseback Riding
+241;0;3;Miss. Thamine Zabour;female;02/01/1868;Cinema - Scuba Diving
+242;1;3;"Miss. Katherine ""Kate"" Murphy";female;14/10/1882;Bar - Gluten Free - Wine Tasting - Shared Cabin
+243;0;2;Mr. Reginald Charles Coleridge;male;10/02/1883;Painting - Chess
+244;0;3;Mr. Matti Alexanteri Maenpaa;male;21/10/1890;Writing - Pottery - Wine Tasting
+245;0;3;Mr. Sleiman Attalah;male;10/08/1882;Non Vegetarian - Scuba Diving - Running - Writing
+246;0;1;Dr. William Edward Minahan;male;11/12/1868;Bar - Writing - Golf - Window Seat
+247;0;3;Miss. Agda Thorilda Viktoria Lindahl;female;05/09/1887;Aisle Seat
+248;1;2;Mrs. William (Anna) Hamalainen;female;18/08/1888;Chess - Golf
+249;1;1;Mr. Richard Leonard Beckwith;male;24/05/1875;Yoga - Private Cabin - Pottery
+250;0;2;Rev. Ernest Courtenay Carter;male;28/02/1858;Meditation - Golf - Archery - Swimming Pool
+251;0;3;Mr. James George Reed;male;13/07/1874;Dancing - Gluten Free - Shared Cabin - Wine Tasting
+252;0;3;Mrs. Wilhelm (Elna Matilda Persson) Strom;female;04/10/1883;Chess - Skiing - Archery
+253;0;1;Mr. William Thomas Stead;male;27/01/1850;Gym - Bird Watching - Chess
+254;0;3;Mr. William Arthur Lobb;male;09/01/1882;Vegetarian - Archery - Aisle Seat - Fishing
+255;0;3;Mrs. Viktor (Helena Wilhelmina) Rosblom;female;16/09/1871;Swimming Pool - Vegan - Running
+256;1;3;Mrs. Darwis (Hanne Youssef Razi) Touma;female;28/06/1883;Tennis - Knitting - Fishing - Vegan
+257;1;1;Mrs. Gertrude Maybelle Thorne;female;25/03/1866;Gym - Running - Surfing
+258;1;1;Miss. Gladys Cherry;female;13/05/1882;Swimming Pool - Yoga - Dancing - Reading
+259;1;1;Miss. Anna Ward;female;26/08/1877;Surfing
+260;1;2;Mrs. (Lutie Davis) Parrish;female;04/07/1862;Painting - Library
+261;0;3;Mr. Thomas Smith;male;28/08/1864;Cycling
+262;1;3;Master. Edvin Rojj Felix Asplund;male;19/09/1891;Upper Deck - Aisle Seat - Vegan - Photography
+263;0;1;Mr. Emil Taussig;male;27/10/1860;Pottery - Cinema - Gym
+264;0;1;Mr. William Harrison;male;27/10/1872;Upper Deck - Archery - Vegetarian
+265;0;3;Miss. Delia Henry;female;26/05/1885;Crafting - Non Vegetarian - Music - Swimming Pool
+266;0;2;Mr. David Reeves;male;28/06/1876;Gluten Free - Yoga
+267;0;3;Mr. Ernesti Arvid Panula;male;03/03/1896;Aisle Seat - Hiking - Horseback Riding
+268;1;3;Mr. Ernst Ulrik Persson;male;12/06/1887;Swimming Pool - Reading - Tennis
+269;1;1;Mrs. William Thompson (Edith Junkins) Graham;female;27/05/1854;Tennis - Dancing - Gym - Running
+270;1;1;Miss. Amelia Bissette;female;26/06/1877;Swimming Pool - Music - Cinema
+271;0;1;Mr. Alexander Cairns;male;05/05/1894;Archery - Private Cabin - Bar
+272;1;3;Mr. William Henry Tornquist;male;24/11/1887;Chess - Sailing
+273;1;2;Mrs. (Elizabeth Anne Maidment) Mellinger;female;14/10/1871;Scuba Diving - Aisle Seat
+274;0;1;Mr. Charles H Natsch;male;10/07/1875;Archery
+275;1;3;"Miss. Hanora ""Nora"" Healy";female;07/12/1866;Cooking - Library - Window Seat - Scuba Diving
+276;1;1;Miss. Kornelia Theodosia Andrews;female;26/09/1849;Gluten Free
+277;0;3;Miss. Augusta Charlotta Lindblom;female;18/01/1867;Library - Window Seat - Swimming Pool - Gym
+278;0;2;"Mr. Francis ""Frank"" Parkes";male;20/08/1868;Fishing - Hiking - Gluten Free
+279;0;3;Master. Eric Rice;male;06/05/1893;Horseback Riding
+280;1;3;Mrs. Stanton (Rosa Hunt) Abbott;female;14/08/1877;Window Seat - Board Games - Cooking
+281;0;3;Mr. Frank Duane;male;18/02/1847;Shared Cabin
+282;0;3;Mr. Nils Johan Goransson Olsson;male;22/05/1884;Gym - Dancing
+283;0;3;Mr. Alfons de Pelsmaeker;male;21/12/1896;Upper Deck - Photography - Rock Climbing
+284;1;3;Mr. Edward Arthur Dorking;male;19/07/1893;Sailing
+285;0;1;Mr. Richard William Smith;male;28/10/1874;Aisle Seat - Gym - Private Cabin - Photography
+286;0;3;Mr. Ivan Stankovic;male;17/02/1879;Knitting - Running - Shared Cabin - Aisle Seat
+287;1;3;Mr. Theodore de Mulder;male;22/11/1882;Non Vegetarian - Gluten Free - Running - Gardening
+288;0;3;Mr. Penko Naidenoff;male;02/09/1890;Yoga - Stargazing - Horseback Riding
+289;1;2;Mr. Masabumi Hosono;male;26/05/1870;Bar - Tennis - Gluten Free - Meditation
+290;1;3;Miss. Kate Connolly;female;12/11/1890;Vegan - Aisle Seat
+291;1;1;"Miss. Ellen ""Nellie"" Barber";female;21/01/1886;Cinema - Gym - Bird Watching - Archery
+292;1;1;Mrs. Dickinson H (Helen Walton) Bishop;female;17/08/1893;Bird Watching - Reading - Aisle Seat - Surfing
+293;0;2;Mr. Rene Jacques Levy;male;16/09/1876;Dancing
+294;0;3;Miss. Aloisia Haas;female;03/08/1888;Gym
+295;0;3;Mr. Ivan Mineff;male;17/04/1888;Reading
+296;0;1;Mr. Ervin G Lewy;male;20/08/1865;Fishing - Gym - Tennis - Vegetarian
+297;0;3;Mr. Mansour Hanna;male;17/04/1889;Bar - Music - Gardening - Fishing
+298;0;1;Miss. Helen Loraine Allison;female;04/08/1895;Vegetarian - Music
+299;1;1;Mr. Adolphe Saalfeld;male;24/07/1894;Fishing - Non Vegetarian - Painting
+300;1;1;Mrs. James (Helene DeLaudeniere Chaput) Baxter;female;20/07/1862;Aisle Seat - Yoga - Vegan - Wine Tasting
+301;1;3;"Miss. Anna Katherine ""Annie Kate"" Kelly";female;02/11/1879;Cooking - Sailing
+302;1;3;Mr. Bernard McCoy;male;20/02/1888;Non Vegetarian - Crafting - Painting
+303;0;3;Mr. William Cahoone Jr Johnson;male;01/04/1893;Sailing - Hiking - Tennis
+304;1;2;Miss. Nora A Keane;female;09/12/1888;Non Vegetarian - Fishing
+305;0;3;"Mr. Howard Hugh ""Harry"" Williams";male;26/02/1867;Aisle Seat - Running - Painting
+306;1;1;Master. Hudson Trevor Allison;male;09/11/1892;Gluten Free - Library - Vegetarian - Chess
+307;1;1;Miss. Margaret Fleming;female;20/09/1879;Library - Upper Deck - Painting - Knitting
+308;1;1;Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana;female;23/12/1895;Horseback Riding - Upper Deck - Vegan
+309;0;2;Mr. Samuel Abelson;male;17/12/1882;Private Cabin
+310;1;1;Miss. Laura Mabel Francatelli;female;15/09/1882;Crafting - Shared Cabin - Painting
+311;1;1;Miss. Margaret Bechstein Hays;female;12/10/1888;Meditation - Private Cabin - Wine Tasting - Dancing
+312;1;1;Miss. Emily Borie Ryerson;female;11/12/1894;Cycling
+313;0;2;Mrs. William (Anna Sylfven) Lahtinen;female;23/03/1886;Rock Climbing
+314;0;3;Mr. Ignjac Hendekovic;male;07/12/1884;Hiking - Yoga - Surfing
+315;0;2;Mr. Benjamin Hart;male;21/11/1869;Bar - Cooking - Photography - Sailing
+316;1;3;Miss. Helmina Josefina Nilsson;female;10/05/1886;Private Cabin - Skiing - Running
+317;1;2;Mrs. Sinai (Miriam Sternin) Kantor;female;12/06/1888;Scuba Diving
+318;0;2;Dr. Ernest Moraweck;male;15/11/1858;Dancing - Hiking
+319;1;1;Miss. Mary Natalie Wick;female;21/02/1881;Library
+320;1;1;Mrs. Frederic Oakley (Margaretta Corning Stone) Spedden;female;19/09/1872;Vegan
+321;0;3;Mr. Samuel Dennis;male;28/01/1890;Dancing - Cycling - Sailing
+322;0;3;Mr. Yoto Danoff;male;21/03/1885;Chess - Hiking
+323;1;2;Miss. Hilda Mary Slayter;female;17/06/1882;Fishing - Private Cabin - Yoga - Wine Tasting
+324;1;2;Mrs. Albert Francis (Sylvia Mae Harbaugh) Caldwell;female;21/09/1890;Crafting
+325;0;3;Mr. George John Jr Sage;male;09/06/1888;Knitting - Gym - Meditation
+326;1;1;Miss. Marie Grice Young;female;13/10/1876;Bar - Board Games - Non Vegetarian
+327;0;3;Mr. Johan Hansen Nysveen;male;19/10/1851;Shared Cabin - Dancing - Window Seat
+328;1;2;Mrs. (Ada E Hall) Ball;female;15/08/1876;Reading - Aisle Seat
+329;1;3;Mrs. Frank John (Emily Alice Brown) Goldsmith;female;04/07/1881;Knitting - Running - Board Games - Vegetarian
+330;1;1;Miss. Jean Gertrude Hippach;female;15/03/1896;Aisle Seat - Gym
+331;1;3;Miss. Agnes McCoy;female;07/06/1889;Dancing - Running - Board Games - Surfing
+332;0;1;Mr. Austen Partner;male;13/07/1867;Gym - Photography - Bird Watching - Cooking
+333;0;1;Mr. George Edward Graham;male;11/01/1874;Library - Music - Upper Deck - Sailing
+334;0;3;Mr. Leo Edmondus Vander Planke;male;20/10/1896;Vegetarian
+335;1;1;Mrs. Henry William (Clara Heinsheimer) Frauenthal;female;22/02/1869;Chess - Pottery - Knitting
+336;0;3;Mr. Mitto Denkoff;male;20/11/1893;Hiking - Crafting - Cinema - Reading
+337;0;1;Mr. Thomas Clinton Pears;male;24/01/1883;Music - Shared Cabin
+338;1;1;Miss. Elizabeth Margaret Burns;female;11/06/1871;Bird Watching - Fishing - Skiing
+339;1;3;Mr. Karl Edwart Dahl;male;07/06/1867;Gluten Free - Golf - Tennis - Running
+340;0;1;Mr. Stephen Weart Blackwell;male;14/01/1867;Scuba Diving
+341;1;2;Master. Edmond Roger Navratil;male;18/03/1894;Crafting - Sailing - Cinema
+342;1;1;Miss. Alice Elizabeth Fortune;female;21/03/1888;Upper Deck - Gym - Cinema - Photography
+343;0;2;Mr. Erik Gustaf Collander;male;12/09/1884;Swimming Pool - Photography - Bird Watching - Rock Climbing
+344;0;2;Mr. Charles Frederick Waddington Sedgwick;male;23/07/1887;Chess - Photography - Writing
+345;0;2;Mr. Stanley Hubert Fox;male;23/02/1876;Yoga - Golf - Stargazing - Writing
+346;1;2;"Miss. Amelia ""Mildred"" Brown";female;09/04/1888;Aisle Seat
+347;1;2;Miss. Marion Elsie Smith;female;21/02/1872;Chess - Rock Climbing - Bar
+348;1;3;Mrs. Thomas Henry (Mary E Finck) Davison;female;07/08/1863;Wine Tasting - Dancing - Private Cabin - Knitting
+349;1;3;"Master. William Loch ""William"" Coutts";male;13/08/1897;Golf - Painting
+350;0;3;Mr. Jovan Dimic;male;08/09/1870;Scuba Diving - Rock Climbing
+351;0;3;Mr. Nils Martin Odahl;male;28/09/1889;Chess - Gardening - Fishing
+352;0;1;Mr. Fletcher Fellows Williams-Lambert;male;01/07/1877;Window Seat
+353;0;3;Mr. Tannous Elias;male;04/05/1897;Private Cabin - Archery - Cycling
+354;0;3;Mr. Josef Arnold-Franchi;male;06/07/1887;Private Cabin - Hiking - Yoga
+355;0;3;Mr. Wazli Yousif;male;19/08/1866;Private Cabin - Music - Bird Watching
+356;0;3;Mr. Leo Peter Vanden Steen;male;05/02/1884;Sailing - Bird Watching
+357;1;1;Miss. Elsie Edith Bowerman;female;22/01/1890;Scuba Diving - Vegan - Meditation - Painting
+358;0;2;Miss. Annie Clemmer Funk;female;16/06/1874;Bird Watching - Painting - Non Vegetarian
+359;1;3;Miss. Mary McGovern;female;22/11/1886;Surfing
+360;1;3;"Miss. Helen Mary ""Ellie"" Mockler";female;07/05/1862;Bird Watching
+361;0;3;Mr. Wilhelm Skoog;male;27/01/1872;Bird Watching
+362;0;2;Mr. Sebastiano del Carlo;male;26/07/1883;Writing
+363;0;3;Mrs. (Catherine David) Barbara;female;07/06/1867;Horseback Riding - Stargazing
+364;0;3;Mr. Adola Asim;male;19/12/1877;Pottery - Private Cabin - Scuba Diving
+365;0;3;Mr. Thomas O'Brien;male;02/10/1882;Cooking
+366;0;3;Mr. Mauritz Nils Martin Adahl;male;27/03/1882;Fishing
+367;1;1;Mrs. Frank Manley (Anna Sophia Atkinson) Warren;female;04/06/1852;Gardening - Private Cabin - Tennis - Cycling
+368;1;3;Mrs. (Mantoura Boulos) Moussa;female;09/11/1893;Vegetarian - Upper Deck - Library - Running
+369;1;3;Miss. Annie Jermyn;female;17/12/1885;Painting - Shared Cabin
+370;1;1;Mme. Leontine Pauline Aubart;female;13/02/1888;Dancing - Cooking - Scuba Diving - Meditation
+371;1;1;Mr. George Achilles Harder;male;24/09/1887;Cooking
+372;0;3;Mr. Jakob Alfred Wiklund;male;20/08/1894;Non Vegetarian - Sailing - Skiing
+373;0;3;Mr. William Thomas Beavan;male;08/05/1893;Knitting - Gym - Pottery
+374;0;1;Mr. Sante Ringhini;male;13/08/1890;Writing - Board Games
+375;0;3;Miss. Stina Viola Palsson;female;07/10/1855;Crafting - Board Games - Sailing - Pottery
+376;1;1;Mrs. Edgar Joseph (Leila Saks) Meyer;female;16/09/1888;Hiking - Scuba Diving - Non Vegetarian
+377;1;3;Miss. Aurora Adelia Landergren;female;28/08/1890;Horseback Riding
+378;0;1;Mr. Harry Elkins Widener;male;20/02/1885;Horseback Riding - Aisle Seat - Sailing
+379;0;3;Mr. Tannous Betros;male;26/04/1892;Private Cabin - Knitting - Cinema
+380;0;3;Mr. Karl Gideon Gustafsson;male;04/11/1893;Wine Tasting - Tennis
+381;1;1;Miss. Rosalie Bidois;female;11/08/1870;Vegetarian - Cycling
+382;1;3;"Miss. Maria (""Mary"") Nakid";female;09/07/1894;Shared Cabin - Fishing
+383;0;3;Mr. Juho Tikkanen;male;10/01/1880;Aisle Seat - Library - Sailing
+384;1;1;Mrs. Alexander Oskar (Mary Aline Towner) Holverson;female;21/08/1877;Sailing - Cinema - Bird Watching
+385;0;3;Mr. Vasil Plotcharsky;male;15/08/1885;Wine Tasting
+386;0;2;Mr. Charles Henry Davies;male;02/12/1894;Fishing - Gardening - Knitting - Gym
+387;0;3;Master. Sidney Leonard Goodwin;male;18/10/1891;Bar - Fishing
+388;1;2;Miss. Kate Buss;female;12/09/1876;Non Vegetarian
+389;0;3;Mr. Matthew Sadlier;male;25/07/1876;Non Vegetarian - Surfing
+390;1;2;Miss. Bertha Lehmann;female;20/11/1895;Painting - Running
+391;1;1;Mr. William Ernest Carter;male;27/03/1876;Running
+392;1;3;Mr. Carl Olof Jansson;male;25/10/1891;Golf - Upper Deck
+393;0;3;Mr. Johan Birger Gustafsson;male;04/05/1884;Sailing
+394;1;1;Miss. Marjorie Newell;female;24/03/1889;Chess - Gym - Archery - Cycling
+395;1;3;Mrs. Hjalmar (Agnes Charlotta Bengtsson) Sandstrom;female;14/08/1888;Aisle Seat
+396;0;3;Mr. Erik Johansson;male;06/12/1890;Wine Tasting - Music
+397;0;3;Miss. Elina Olsson;female;28/06/1881;Cooking - Gluten Free - Wine Tasting
+398;0;2;Mr. Peter David McKane;male;15/02/1866;Non Vegetarian - Horseback Riding - Stargazing - Sailing
+399;0;2;Dr. Alfred Pain;male;25/06/1889;Private Cabin - Wine Tasting
+400;1;2;Mrs. William H (Jessie L) Trout;female;19/08/1884;Music
+401;1;3;Mr. Juha Niskanen;male;19/08/1873;Horseback Riding - Dancing - Sailing
+402;0;3;Mr. John Adams;male;12/04/1886;Surfing - Archery - Yoga - Photography
+403;0;3;Miss. Mari Aina Jussila;female;18/12/1891;Chess - Golf - Crafting - Vegan
+404;0;3;Mr. Pekka Pietari Hakkarainen;male;06/05/1884;Vegetarian - Window Seat - Dancing
+405;0;3;Miss. Marija Oreskovic;female;19/05/1892;Wine Tasting - Vegan - Golf - Board Games
+406;0;2;Mr. Shadrach Gale;male;08/11/1878;Private Cabin - Hiking - Library
+407;0;3;Mr. Carl/Charles Peter Widegren;male;24/04/1861;Cooking - Music - Golf
+408;1;2;Master. William Rowe Richards;male;28/01/1893;Writing
+409;0;3;Mr. Hans Martin Monsen Birkeland;male;17/06/1891;Gym - Chess
+410;0;3;Miss. Ida Lefebre;female;26/06/1889;Photography - Yoga
+411;0;3;Mr. Todor Sdycoff;male;07/05/1873;Sailing - Vegetarian - Aisle Seat
+412;0;3;Mr. Henry Hart;male;12/02/1869;Gluten Free
+413;1;1;Miss. Daisy E Minahan;female;03/07/1879;Cinema - Vegetarian - Board Games - Sailing
+414;0;2;Mr. Alfred Fleming Cunningham;male;08/09/1877;Board Games - Scuba Diving
+415;1;3;Mr. Johan Julian Sundman;male;10/03/1868;Painting
+416;0;3;Mrs. Thomas (Annie Louise Rowley) Meek;female;20/01/1892;Swimming Pool
+417;1;2;Mrs. James Vivian (Lulu Thorne Christian) Drew;female;27/01/1878;Private Cabin
+418;1;2;Miss. Lyyli Karoliina Silven;female;03/01/1894;Vegetarian
+419;0;2;Mr. William John Matthews;male;16/03/1882;Bar - Library - Pottery
+420;0;3;Miss. Catharina Van Impe;female;23/04/1894;Scuba Diving - Dancing - Knitting - Cooking
+421;0;3;Mr. Stanio Gheorgheff;male;25/08/1881;Shared Cabin - Meditation - Wine Tasting - Photography
+422;0;3;Mr. David Charters;male;23/12/1891;Shared Cabin
+423;0;3;Mr. Leo Zimmerman;male;03/01/1883;Vegan - Writing
+424;0;3;Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom;female;25/04/1884;Vegan - Painting - Golf - Cinema
+425;0;3;Mr. Viktor Richard Rosblom;male;16/08/1894;Writing
+426;0;3;Mr. Phillippe Wiseman;male;18/07/1882;Reading - Upper Deck - Window Seat - Bar
+427;1;2;Mrs. Charles V (Ada Maria Winfield) Clarke;female;18/07/1884;Pottery - Dancing - Cycling
+428;1;2;"Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"") Phillips";female;20/04/1893;Cinema
+429;0;3;Mr. James Flynn;male;08/09/1875;Rock Climbing - Window Seat - Shared Cabin
+430;1;3;Mr. Berk (Berk Trembisky) Pickard;male;01/12/1880;Scuba Diving - Board Games - Chess
+431;1;1;Mr. Mauritz Hakan Bjornstrom-Steffansson;male;01/03/1884;Shared Cabin
+432;1;3;Mrs. Percival (Florence Kate White) Thorneycroft;female;04/07/1887;Cooking
+433;1;2;Mrs. Charles Alexander (Alice Adelaide Slow) Louch;female;03/02/1870;Photography
+434;0;3;Mr. Nikolai Erland Kallio;male;21/10/1895;Reading - Yoga - Bar
+435;0;1;Mr. William Baird Silvey;male;14/01/1862;Library
+436;1;1;Miss. Lucile Polk Carter;female;21/03/1898;Bird Watching - Horseback Riding
+437;0;3;"Miss. Doolina Margaret ""Daisy"" Ford";female;19/01/1891;Library - Yoga
+438;1;2;Mrs. Sidney (Emily Hocking) Richards;female;22/01/1888;Photography - Vegetarian
+439;0;1;Mr. Mark Fortune;male;03/03/1848;Dancing - Golf
+440;0;2;Mr. Johan Henrik Johannesson Kvillner;male;17/07/1881;Surfing - Meditation - Dancing
+441;1;2;Mrs. Benjamin (Esther Ada Bloomfield) Hart;female;10/09/1867;Skiing
+442;0;3;Mr. Leon Hampe;male;07/05/1892;Horseback Riding - Rock Climbing
+443;0;3;Mr. Johan Emil Petterson;male;22/07/1887;Cinema - Reading
+444;1;2;Ms. Encarnacion Reynaldo;female;27/04/1884;Scuba Diving - Tennis
+445;1;3;Mr. Bernt Johannesen-Bratthammer;male;19/04/1869;Music
+446;1;1;Master. Washington Dodge;male;07/09/1894;Painting - Sailing
+447;1;2;Miss. Madeleine Violet Mellinger;female;10/07/1899;Painting - Yoga - Tennis - Archery
+448;1;1;Mr. Frederic Kimber Seward;male;08/01/1878;Running - Music - Non Vegetarian - Meditation
+449;1;3;Miss. Marie Catherine Baclini;female;24/09/1891;Cinema - Yoga - Tennis - Bird Watching
+450;1;1;Major. Arthur Godfrey Peuchen;male;28/02/1860;Upper Deck
+451;0;2;Mr. Edwy Arthur West;male;21/02/1876;Stargazing - Cooking - Painting - Dancing
+452;0;3;Mr. Ingvald Olai Olsen Hagland;male;10/12/1879;Archery - Vegetarian
+453;0;1;Mr. Benjamin Laventall Foreman;male;12/02/1882;Vegetarian - Stargazing
+454;1;1;Mr. Samuel L Goldenberg;male;09/12/1863;Private Cabin - Library - Cycling - Knitting
+455;0;3;Mr. Joseph Peduzzi;male;26/10/1893;Shared Cabin - Golf - Hiking - Gym
+456;1;3;Mr. Ivan Jalsevac;male;02/07/1883;Yoga - Hiking - Skiing
+457;0;1;Mr. Francis Davis Millet;male;01/08/1847;Gluten Free - Vegan - Board Games
+458;1;1;Mrs. Frederick R (Marion) Kenyon;female;22/07/1892;Cycling
+459;1;2;Miss. Ellen Toomey;female;07/03/1862;Yoga - Shared Cabin
+460;0;3;Mr. Maurice O'Connor;male;25/02/1891;Swimming Pool
+461;1;1;Mr. Harry Anderson;male;03/01/1864;Chess - Aisle Seat - Bar - Yoga
+462;0;3;Mr. William Morley;male;21/09/1878;Knitting - Upper Deck - Gluten Free - Sailing
+463;0;1;Mr. Arthur H Gee;male;14/10/1865;Scuba Diving
+464;0;2;Mr. Jacob Christian Milling;male;27/07/1864;Gardening
+465;0;3;Mr. Simon Maisner;male;13/05/1875;Upper Deck - Vegetarian - Shared Cabin - Bird Watching
+466;0;3;Mr. Manuel Estanslas Goncalves;male;27/07/1874;Vegan
+467;0;2;Mr. William Campbell;male;22/10/1889;Wine Tasting - Gluten Free - Bird Watching
+468;0;1;Mr. John Montgomery Smart;male;09/02/1856;Knitting - Horseback Riding - Writing
+469;0;3;Mr. James Scanlan;male;28/04/1866;Vegan
+470;1;3;Miss. Helene Barbara Baclini;female;26/03/1899;Swimming Pool - Shared Cabin - Hiking
+471;0;3;Mr. Arthur Keefe;male;23/11/1872;Meditation - Skiing - Golf - Surfing
+472;0;3;Mr. Luka Cacic;male;23/01/1874;Window Seat - Gym
+473;1;2;Mrs. Edwy Arthur (Ada Mary Worth) West;female;08/09/1879;Reading - Swimming Pool - Skiing - Writing
+474;1;2;Mrs. Amin S (Marie Marthe Thuillard) Jerwan;female;11/12/1889;Aisle Seat - Chess
+475;0;3;Miss. Ida Sofia Strandberg;female;01/01/1890;Cycling
+476;0;1;Mr. George Quincy Clifford;male;09/05/1872;Writing - Shared Cabin - Non Vegetarian
+477;0;2;Mr. Peter Henry Renouf;male;24/10/1878;Crafting - Vegan - Surfing - Non Vegetarian
+478;0;3;Mr. Lewis Richard Braund;male;26/01/1883;Cycling
+479;0;3;Mr. Nils August Karlsson;male;02/11/1890;Cycling - Writing - Bar
+480;1;3;Miss. Hildur E Hirvonen;female;03/11/1894;Gym
+481;0;3;Master. Harold Victor Goodwin;male;23/10/1895;Tennis - Dancing
+482;0;2;"Mr. Anthony Wood ""Archie"" Frost";male;17/05/1879;Gym - Crafting - Window Seat
+483;0;3;Mr. Richard Henry Rouse;male;16/04/1862;Running
+484;1;3;Mrs. (Hedwig) Turkula;female;21/08/1849;Fishing - Skiing - Reading
+485;1;1;Mr. Dickinson H Bishop;male;10/05/1887;Golf
+486;0;3;Miss. Jeannie Lefebre;female;27/01/1894;Private Cabin - Horseback Riding - Bar - Vegan
+487;1;1;Mrs. Frederick Maxfield (Jane Anne Forby) Hoyt;female;16/11/1877;Skiing - Rock Climbing
+488;0;1;Mr. Edward Austin Kent;male;25/02/1854;Scuba Diving - Horseback Riding - Wine Tasting
+489;0;3;Mr. Francis William Somerton;male;27/07/1882;Stargazing
+490;1;3;"Master. Eden Leslie ""Neville"" Coutts";male;06/08/1896;Stargazing
+491;0;3;Mr. Konrad Mathias Reiersen Hagland;male;14/02/1866;Wine Tasting
+492;0;3;Mr. Einar Windelov;male;24/03/1891;Dancing - Hiking - Swimming Pool
+493;0;1;Mr. Harry Markland Molson;male;28/01/1857;Window Seat
+494;0;1;Mr. Ramon Artagaveytia;male;16/02/1841;Board Games
+495;0;3;Mr. Edward Roland Stanley;male;15/12/1891;Pottery - Painting - Horseback Riding
+496;0;3;Mr. Gerious Yousseff;male;12/12/1880;Running
+497;1;1;Miss. Elizabeth Mussey Eustis;female;18/05/1858;Crafting
+498;0;3;Mr. Frederick William Shellard;male;03/09/1875;Photography - Horseback Riding
+499;0;1;Mrs. Hudson J C (Bessie Waldo Daniels) Allison;female;05/05/1887;Knitting - Scuba Diving - Crafting
+500;0;3;Mr. Olof Svensson;male;09/09/1888;Gym - Fishing
+501;0;3;Mr. Petar Calic;male;07/11/1895;Vegan - Painting - Running
+502;0;3;Miss. Mary Canavan;female;28/06/1891;Library
+503;0;3;Miss. Bridget Mary O'Sullivan;female;23/09/1887;Sailing - Window Seat
+504;0;3;Miss. Kristina Sofia Laitinen;female;19/09/1875;Running
+505;1;1;Miss. Roberta Maioni;female;25/07/1896;Archery - Meditation - Gluten Free - Reading
+506;0;1;Mr. Victor de Satode Penasco y Castellana;male;26/08/1894;Vegetarian - Painting - Board Games
+507;1;2;Mrs. Frederick Charles (Jane Richards) Quick;female;18/03/1879;Vegan
+508;1;1;"Mr. George (""George Arthur Brayton"") Bradley";male;04/05/1894;Photography - Tennis - Bar - Wine Tasting
+509;0;3;Mr. Henry Margido Olsen;male;09/10/1884;Vegan - Golf
+510;1;3;Mr. Fang Lang;male;07/06/1886;Golf - Tennis
+511;1;3;Mr. Eugene Patrick Daly;male;24/06/1883;Knitting
+512;0;3;Mr. James Webber;male;08/07/1886;Dancing - Shared Cabin - Fishing
+513;1;1;Mr. James Robert McGough;male;16/08/1876;Painting
+514;1;1;Mrs. Martin (Elizabeth L. Barrett) Rothschild;female;13/12/1858;Cycling - Photography - Music - Window Seat
+515;0;3;Mr. Satio Coleff;male;22/03/1888;Cycling
+516;0;1;Mr. William Anderson Walker;male;25/09/1865;Surfing - Bird Watching - Vegetarian - Painting
+517;1;2;Mrs. (Amelia Milley) Lemore;female;17/09/1878;Swimming Pool - Music - Running
+518;0;3;Mr. Patrick Ryan;male;28/01/1888;Stargazing - Horseback Riding
+519;1;2;"Mrs. William A (Florence ""Mary"" Agnes Hughes) Angle";female;01/06/1876;Wine Tasting - Hiking - Scuba Diving
+520;0;3;Mr. Stefo Pavlovic;male;15/03/1880;Board Games - Surfing - Photography - Non Vegetarian
+521;1;1;Miss. Anne Perreault;female;26/07/1882;Wine Tasting - Library - Dancing - Skiing
+522;0;3;Mr. Janko Vovk;male;08/05/1890;Pottery
+523;0;3;Mr. Sarkis Lahoud;male;02/02/1873;Stargazing - Yoga - Cycling
+524;1;1;Mrs. Louis Albert (Ida Sophia Fischer) Hippach;female;06/10/1868;Golf - Meditation - Running - Upper Deck
+525;0;3;Mr. Fared Kassem;male;13/10/1865;Window Seat - Crafting - Stargazing
+526;0;3;Mr. James Farrell;male;23/09/1872;Archery - Golf
+527;1;2;Miss. Lucy Ridsdale;female;17/11/1862;Golf - Chess - Wine Tasting - Gardening
+528;0;1;Mr. John Farthing;male;25/07/1891;Shared Cabin
+529;0;3;Mr. Johan Werner Salonen;male;16/07/1873;Sailing - Skiing - Writing
+530;0;2;Mr. Richard George Hocking;male;06/04/1889;Music - Hiking
+531;1;2;Miss. Phyllis May Quick;female;07/08/1894;Reading - Music
+532;0;3;Mr. Nakli Toufik;male;24/05/1878;Running - Yoga
+533;0;3;Mr. Joseph Jr Elias;male;06/04/1895;Vegan
+534;1;3;Mrs. Catherine (Catherine Rizk) Peter;female;18/12/1863;Sailing - Scuba Diving
+535;0;3;Miss. Marija Cacic;female;10/01/1882;Reading - Wine Tasting - Crafting
+536;1;2;Miss. Eva Miriam Hart;female;21/10/1892;Cycling - Gluten Free
+537;0;1;Major. Archibald Willingham Butt;male;06/04/1867;Swimming Pool - Vegan - Knitting - Sailing
+538;1;1;Miss. Bertha LeRoy;female;03/03/1882;Gardening - Running - Scuba Diving
+539;0;3;Mr. Samuel Beard Risien;male;07/09/1873;Vegetarian
+540;1;1;Miss. Hedwig Margaritha Frolicher;female;13/07/1890;Gym - Golf - Archery
+541;1;1;Miss. Harriet R Crosby;female;28/09/1876;Sailing - Library
+542;0;3;Miss. Ingeborg Constanzia Andersson;female;07/05/1894;Vegan - Gym
+543;0;3;Miss. Sigrid Elisabeth Andersson;female;06/11/1894;Running - Library - Music - Bird Watching
+544;1;2;Mr. Edward Beane;male;22/08/1880;Yoga - Bar - Tennis
+545;0;1;Mr. Walter Donald Douglas;male;09/05/1862;Golf - Rock Climbing
+546;0;1;Mr. Arthur Ernest Nicholson;male;13/01/1848;Pottery - Library - Cinema
+547;1;2;Mrs. Edward (Ethel Clarke) Beane;female;05/08/1893;Library
+548;1;2;Mr. Julian Padro y Manent;male;18/03/1882;Library - Dancing - Meditation
+549;0;3;Mr. Frank John Goldsmith;male;10/08/1879;Golf
+550;1;2;Master. John Morgan Jr Davies;male;08/09/1894;Gardening - Wine Tasting - Meditation
+551;1;1;Mr. John Borland Jr Thayer;male;18/03/1895;Bird Watching - Photography - Wine Tasting - Swimming Pool
+552;0;2;Mr. Percival James R Sharp;male;04/06/1885;Dancing - Scuba Diving - Meditation
+553;0;3;Mr. Timothy O'Brien;male;15/06/1873;Dancing - Gym - Swimming Pool
+554;1;3;"Mr. Fahim (""Philip Zenni"") Leeni";male;09/04/1890;Wine Tasting - Surfing - Upper Deck - Aisle Seat
+555;1;3;Miss. Velin Ohman;female;01/11/1890;Reading
+556;0;1;Mr. George Wright;male;09/06/1850;Window Seat - Vegetarian - Bar
+557;1;1;"Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"") Duff Gordon";female;24/11/1864;Crafting
+558;0;1;Mr. Victor Robbins;male;20/07/1891;Tennis - Yoga
+559;1;1;Mrs. Emil (Tillie Mandelbaum) Taussig;female;16/03/1873;Photography - Fishing - Knitting
+560;1;3;Mrs. Guillaume Joseph (Emma) de Messemaeker;female;17/09/1876;Music - Upper Deck
+561;0;3;Mr. Thomas Rowan Morrow;male;25/11/1885;Vegetarian
+562;0;3;Mr. Husein Sivic;male;09/02/1872;Sailing
+563;0;2;Mr. Robert Douglas Norman;male;14/04/1884;Cooking - Upper Deck
+564;0;3;Mr. John Simmons;male;04/03/1868;Vegetarian - Stargazing
+565;0;3;Miss. (Marion Ogden) Meanwell;female;10/04/1869;Swimming Pool - Sailing - Archery - Fishing
+566;0;3;Mr. Alfred J Davies;male;23/04/1888;Rock Climbing - Window Seat - Tennis - Dancing
+567;0;3;Mr. Ilia Stoytcheff;male;09/02/1893;Board Games - Meditation
+568;0;3;Mrs. Nils (Alma Cornelia Berglund) Palsson;female;22/02/1883;Vegan
+569;0;3;Mr. Tannous Doharr;male;03/11/1875;Skiing - Cooking
+570;1;3;Mr. Carl Jonsson;male;02/11/1880;Board Games - Cooking - Private Cabin
+571;1;2;Mr. George Harris;male;08/02/1850;Painting - Hiking - Gardening - Aisle Seat
+572;1;1;Mrs. Edward Dale (Charlotte Lamson) Appleton;female;08/02/1859;Music - Skiing - Yoga - Knitting
+573;1;1;"Mr. John Irwin (""Irving"") Flynn";male;17/06/1876;Archery - Crafting - Hiking - Library
+574;1;3;Miss. Mary Kelly;female;08/05/1880;Vegan - Gardening - Running - Shared Cabin
+575;0;3;Mr. Alfred George John Rush;male;05/05/1896;Reading - Gluten Free - Tennis - Golf
+576;0;3;Mr. George Patchett;male;01/09/1893;Gluten Free - Cycling - Window Seat
+577;1;2;Miss. Ethel Garside;female;01/06/1878;Writing - Cycling - Stargazing
+578;1;1;Mrs. William Baird (Alice Munger) Silvey;female;05/09/1873;Reading - Stargazing - Gluten Free - Cooking
+579;0;3;Mrs. Joseph (Maria Elias) Caram;female;19/09/1892;Swimming Pool - Upper Deck
+580;1;3;Mr. Eiriik Jussila;male;23/10/1880;Horseback Riding - Hiking
+581;1;2;Miss. Julie Rachel Christy;female;27/01/1887;Writing - Private Cabin
+582;1;1;Mrs. John Borland (Marian Longstreth Morris) Thayer;female;15/01/1873;Meditation - Sailing - Shared Cabin
+583;0;2;Mr. William James Downton;male;27/11/1858;Golf - Vegan - Writing
+584;0;1;Mr. John Hugo Ross;male;06/06/1876;Upper Deck - Vegetarian - Vegan
+585;0;3;Mr. Uscher Paulner;male;16/07/1882;Gluten Free - Bar - Photography
+586;1;1;Miss. Ruth Taussig;female;23/08/1894;Board Games - Surfing - Cinema - Running
+587;0;2;Mr. John Denzil Jarvis;male;16/12/1865;Tennis - Writing - Painting
+588;1;1;Mr. Maxmillian Frolicher-Stehli;male;16/04/1852;Horseback Riding - Stargazing
+589;0;3;Mr. Eliezer Gilinski;male;20/06/1890;Dancing - Tennis - Rock Climbing
+590;0;3;Mr. Joseph Murdlin;male;21/11/1886;Scuba Diving
+591;0;3;Mr. Matti Rintamaki;male;11/08/1877;Yoga
+592;1;1;Mrs. Walter Bertram (Martha Eustis) Stephenson;female;04/08/1860;Fishing - Running
+593;0;3;Mr. William James Elsbury;male;10/10/1865;Golf
+594;0;3;Miss. Mary Bourke;female;22/02/1886;Hiking - Upper Deck - Gluten Free - Dancing
+595;0;2;Mr. John Henry Chapman;male;24/03/1875;Vegetarian
+596;0;3;Mr. Jean Baptiste Van Impe;male;02/08/1876;Shared Cabin - Hiking - Wine Tasting
+597;1;2;Miss. Jessie Wills Leitch;female;08/02/1885;Running - Meditation - Dancing
+598;0;3;Mr. Alfred Johnson;male;23/11/1863;Wine Tasting
+599;0;3;Mr. Hanna Boulos;male;24/04/1886;Bar
+600;1;1;"Sir. Cosmo Edmund (""Mr Morgan"") Duff Gordon";male;09/10/1863;Reading - Knitting
+601;1;2;Mrs. Sidney Samuel (Amy Frances Christy) Jacobsohn;female;06/02/1888;Hiking - Tennis - Cinema - Gardening
+602;0;3;Mr. Petco Slabenoff;male;04/06/1891;Private Cabin - Horseback Riding
+603;0;1;Mr. Charles H Harrington;male;03/10/1873;Board Games - Chess
+604;0;3;Mr. Ernst William Torber;male;26/02/1868;Golf - Fishing - Window Seat - Surfing
+605;1;1;"Mr. Harry (""Mr E Haven"") Homer";male;13/08/1877;Upper Deck - Pottery
+606;0;3;Mr. Edvard Bengtsson Lindell;male;01/08/1876;Chess
+607;0;3;Mr. Milan Karaic;male;02/07/1882;Vegetarian - Cinema - Skiing
+608;1;1;Mr. Robert Williams Daniel;male;01/10/1885;Reading - Vegetarian
+609;1;2;Mrs. Joseph (Juliette Marie Louise Lafargue) Laroche;female;11/08/1890;Pottery - Meditation - Library - Knitting
+610;1;1;Miss. Elizabeth W Shutes;female;07/05/1872;Running - Crafting - Pottery - Non Vegetarian
+611;0;3;Mrs. Anders Johan (Alfrida Konstantia Brogren) Andersson;female;19/04/1873;Yoga - Reading - Sailing
+612;0;3;Mr. Jose Neto Jardin;male;09/08/1883;Vegan
+613;1;3;Miss. Margaret Jane Murphy;female;01/10/1863;Tennis - Dancing
+614;0;3;Mr. John Horgan;male;11/07/1891;Writing
+615;0;3;Mr. William Alfred Brocklebank;male;08/10/1877;Dancing - Vegetarian
+616;1;2;Miss. Alice Herman;female;11/01/1888;Knitting - Tennis - Archery
+617;0;3;Mr. Ernst Gilbert Danbom;male;26/04/1878;Upper Deck
+618;0;3;Mrs. William Arthur (Cordelia K Stanlick) Lobb;female;19/03/1886;Pottery - Shared Cabin
+619;1;2;Miss. Marion Louise Becker;female;25/01/1899;Running - Scuba Diving
+620;0;2;Mr. Lawrence Gavey;male;13/07/1886;Vegetarian - Crafting - Painting - Music
+621;0;3;Mr. Antoni Yasbeck;male;10/08/1885;Knitting - Rock Climbing - Reading - Chess
+622;1;1;Mr. Edwin Nelson Jr Kimball;male;04/02/1870;Chess
+623;1;3;Mr. Sahid Nakid;male;02/02/1892;Library
+624;0;3;Mr. Henry Damsgaard Hansen;male;07/02/1891;Shared Cabin - Vegan - Tennis
+625;0;3;"Mr. David John ""Dai"" Bowen";male;07/10/1891;Private Cabin
+626;0;1;Mr. Frederick Sutton;male;27/01/1851;Knitting - Surfing - Aisle Seat
+627;0;2;Rev. Charles Leonard Kirkland;male;24/09/1855;Crafting
+628;1;1;Miss. Gretchen Fiske Longley;female;07/10/1891;Golf - Shared Cabin - Meditation - Pottery
+629;0;3;Mr. Guentcho Bostandyeff;male;15/01/1886;Photography
+630;0;3;Mr. Patrick D O'Connell;male;16/03/1865;Swimming Pool - Meditation - Photography
+631;1;1;Mr. Algernon Henry Wilson Barkworth;male;27/08/1832;Crafting - Pottery - Aisle Seat - Horseback Riding
+632;0;3;Mr. Johan Svensson Lundahl;male;20/06/1861;Bar - Window Seat - Horseback Riding
+633;1;1;Dr. Max Stahelin-Maeglin;male;21/11/1880;Gluten Free - Sailing
+634;0;1;Mr. William Henry Marsh Parr;male;20/02/1868;Tennis - Pottery
+635;0;3;Miss. Mabel Skoog;female;19/07/1892;Window Seat - Knitting - Stargazing - Horseback Riding
+636;1;2;Miss. Mary Davis;female;14/07/1884;Gluten Free - Horseback Riding
+637;0;3;Mr. Antti Gustaf Leinonen;male;07/10/1880;Reading - Pottery
+638;0;2;Mr. Harvey Collyer;male;18/03/1881;Gluten Free - Yoga - Aisle Seat - Wine Tasting
+639;0;3;Mrs. Juha (Maria Emilia Ojala) Panula;female;08/07/1871;Golf - Gluten Free - Chess
+640;0;3;Mr. Percival Thorneycroft;male;25/05/1887;Bar - Chess - Writing
+641;0;3;Mr. Hans Peder Jensen;male;17/06/1892;Cooking - Hiking - Dancing
+642;1;1;Mlle. Emma Sagesser;female;21/10/1888;Rock Climbing - Knitting
+643;0;3;Miss. Margit Elizabeth Skoog;female;24/12/1894;Horseback Riding
+644;1;3;Mr. Choong Foo;male;26/03/1863;Writing - Bird Watching
+645;1;3;Miss. Eugenie Baclini;female;09/10/1894;Cooking
+646;1;1;Mr. Henry Sleeper Harper;male;09/12/1864;Bird Watching - Aisle Seat - Swimming Pool - Painting
+647;0;3;Mr. Liudevit Cor;male;05/08/1893;Cooking - Vegan - Writing
+648;1;1;Col. Oberst Alfons Simonius-Blumer;male;12/10/1856;Shared Cabin
+649;0;3;Mr. Edward Willey;male;22/11/1880;Photography - Library
+650;1;3;Miss. Amy Zillah Elsie Stanley;female;11/12/1889;Cycling - Fishing
+651;0;3;Mr. Mito Mitkoff;male;03/11/1874;Shared Cabin - Archery - Surfing
+652;1;2;Miss. Elsie Doling;female;08/03/1894;Music - Aisle Seat - Pottery
+653;0;3;Mr. Johannes Halvorsen Kalvik;male;15/11/1891;Skiing - Swimming Pool
+654;1;3;"Miss. Hanora ""Norah"" O'Leary";female;01/07/1876;Stargazing
+655;0;3;"Miss. Hanora ""Nora"" Hegarty";female;19/10/1894;Skiing - Horseback Riding
+656;0;2;Mr. Leonard Mark Hickman;male;02/01/1888;Window Seat - Horseback Riding
+657;0;3;Mr. Alexander Radeff;male;15/04/1886;Gluten Free - Writing
+658;0;3;Mrs. John (Catherine) Bourke;female;06/10/1880;Board Games
+659;0;2;Mr. George Floyd Eitemiller;male;26/03/1889;Non Vegetarian
+660;0;1;Mr. Arthur Webster Newell;male;19/08/1854;Shared Cabin - Gluten Free - Pottery - Painting
+661;1;1;Dr. Henry William Frauenthal;male;20/09/1862;Upper Deck
+662;0;3;Mr. Mohamed Badt;male;12/06/1872;Running
+663;0;1;Mr. Edward Pomeroy Colley;male;19/11/1865;Gluten Free - Aisle Seat
+664;0;3;Mr. Peju Coleff;male;05/08/1876;Bird Watching
+665;1;3;Mr. Eino William Lindqvist;male;21/05/1892;Music - Aisle Seat - Photography - Wine Tasting
+666;0;2;Mr. Lewis Hickman;male;15/04/1880;Tennis - Yoga - Hiking
+667;0;2;Mr. Reginald Fenton Butler;male;08/12/1887;Yoga
+668;0;3;Mr. Knud Paust Rommetvedt;male;21/06/1880;Skiing - Sailing - Library
+669;0;3;Mr. Jacob Cook;male;12/09/1869;Wine Tasting - Cooking
+670;1;1;Mrs. Elmer Zebley (Juliet Cummins Wright) Taylor;female;28/04/1867;Knitting - Gluten Free - Yoga
+671;1;2;Mrs. Thomas William Solomon (Elizabeth Catherine Ford) Brown;female;25/11/1872;Tennis
+672;0;1;Mr. Thornton Davidson;male;22/10/1881;Bird Watching - Sailing
+673;0;2;Mr. Henry Michael Mitchell;male;14/11/1842;Reading
+674;1;2;Mr. Charles Wilhelms;male;15/03/1881;Wine Tasting
+675;0;2;Mr. Ennis Hastings Watson;male;09/01/1868;Writing - Cooking - Photography - Vegetarian
+676;0;3;Mr. Gustaf Hjalmar Edvardsson;male;27/05/1894;Scuba Diving - Gluten Free - Aisle Seat - Pottery
+677;0;3;Mr. Frederick Charles Sawyer;male;17/08/1888;Vegetarian - Painting - Sailing - Skiing
+678;1;3;Miss. Anna Sofia Turja;female;05/09/1894;Chess - Photography - Bar - Wine Tasting
+679;0;3;Mrs. Frederick (Augusta Tyler) Goodwin;female;17/07/1869;Upper Deck - Stargazing - Vegetarian
+680;1;1;Mr. Thomas Drake Martinez Cardeza;male;26/01/1876;Vegetarian - Writing
+681;0;3;Miss. Katie Peters;female;27/02/1872;Gluten Free - Private Cabin - Knitting - Cooking
+682;1;1;Mr. Hammad Hassab;male;09/12/1885;Library
+683;0;3;Mr. Thor Anderson Olsvigen;male;28/04/1892;Painting - Scuba Diving
+684;0;3;Mr. Charles Edward Goodwin;male;17/01/1898;Swimming Pool - Gluten Free - Cooking
+685;0;2;Mr. Thomas William Solomon Brown;male;26/12/1852;Music
+686;0;2;Mr. Joseph Philippe Lemercier Laroche;male;17/08/1887;Bird Watching - Golf
+687;0;3;Mr. Jaako Arnold Panula;male;04/11/1898;Scuba Diving
+688;0;3;Mr. Branko Dakic;male;18/04/1893;Horseback Riding
+689;0;3;Mr. Eberhard Thelander Fischer;male;06/08/1894;Cooking - Chess - Stargazing
+690;1;1;Miss. Georgette Alexandra Madill;female;03/10/1897;Non Vegetarian
+691;1;1;Mr. Albert Adrian Dick;male;26/07/1881;Private Cabin - Gym - Reading
+692;1;3;Miss. Manca Karun;female;07/10/1894;Fishing
+693;1;3;Mr. Ali Lam;male;07/10/1892;Gym - Writing
+694;0;3;Mr. Khalil Saad;male;13/06/1887;Photography - Music - Aisle Seat - Sailing
+695;0;1;Col. John Weir;male;16/02/1852;Private Cabin
+696;0;2;Mr. Charles Henry Chapman;male;19/05/1860;Crafting
+697;0;3;Mr. James Kelly;male;01/09/1868;Sailing
+698;1;3;"Miss. Katherine ""Katie"" Mullens";female;15/03/1876;Hiking - Writing
+699;0;1;Mr. John Borland Thayer;male;03/01/1863;Horseback Riding - Running - Private Cabin
+700;0;3;Mr. Adolf Mathias Nicolai Olsen Humblen;male;04/01/1870;Hiking - Music - Cooking - Golf
+701;1;1;Mrs. John Jacob (Madeleine Talmadge Force) Astor;female;05/07/1894;Knitting - Library - Swimming Pool
+702;1;1;Mr. Spencer Victor Silverthorne;male;06/11/1877;Hiking - Running
+703;0;3;Miss. Saiide Barbara;female;11/11/1894;Photography - Private Cabin - Archery - Golf
+704;0;3;Mr. Martin Gallagher;male;24/11/1887;Private Cabin - Bar
+705;0;3;Mr. Henrik Juul Hansen;male;21/07/1886;Meditation - Swimming Pool - Rock Climbing
+706;0;2;"Mr. Henry Samuel (""Mr Henry Marshall"") Morley";male;18/11/1873;Bird Watching - Meditation - Stargazing
+707;1;2;"Mrs. Florence ""Fannie"" Kelly";female;26/06/1867;Gluten Free - Archery - Board Games
+708;1;1;Mr. Edward Pennington Calderhead;male;21/12/1870;Fishing
+709;1;1;Miss. Alice Cleaver;female;17/03/1890;Stargazing - Hiking - Upper Deck - Archery
+710;1;3;"Master. Halim Gonios (""William George"") Moubarek";male;20/01/1886;Sailing - Cinema
+711;1;1;"Mlle. Berthe Antonine (""Mrs de Villiers"") Mayne";female;03/02/1888;Rock Climbing - Writing - Music
+712;0;1;Mr. Herman Klaber;male;20/07/1873;Bar - Photography - Surfing - Cycling
+713;1;1;Mr. Elmer Zebley Taylor;male;15/04/1864;Golf - Gym
+714;0;3;Mr. August Viktor Larsson;male;25/06/1883;Meditation - Golf
+715;0;2;Mr. Samuel Greenberg;male;01/03/1860;Tennis - Gluten Free - Chess - Sailing
+716;0;3;Mr. Peter Andreas Lauritz Andersen Soholt;male;23/03/1893;Vegetarian - Tennis - Gym - Cooking
+717;1;1;Miss. Caroline Louise Endres;female;11/08/1874;Golf
+718;1;2;"Miss. Edwina Celia ""Winnie"" Troutt";female;14/03/1885;Surfing
+719;0;3;Mr. Michael McEvoy;male;25/05/1885;Library
+720;0;3;Mr. Malkolm Joackim Johnson;male;28/06/1879;Photography
+721;1;2;"Miss. Annie Jessie ""Nina"" Harper";female;10/04/1896;Scuba Diving
+722;0;3;Mr. Svend Lauritz Jensen;male;03/02/1895;Tennis - Painting
+723;0;2;Mr. William Henry Gillespie;male;09/06/1878;Swimming Pool - Library - Cycling - Scuba Diving
+724;0;2;Mr. Henry Price Hodges;male;24/01/1862;Swimming Pool - Board Games - Rock Climbing - Upper Deck
+725;1;1;Mr. Norman Campbell Chambers;male;03/01/1885;Chess
+726;0;3;Mr. Luka Oreskovic;male;21/03/1892;Private Cabin
+727;1;2;Mrs. Peter Henry (Lillian Jefferys) Renouf;female;25/06/1882;Library - Bird Watching
+728;1;3;Miss. Margareth Mannion;female;05/01/1883;Upper Deck - Gym - Music - Surfing
+729;0;2;Mr. Kurt Arnold Gottfrid Bryhl;male;23/07/1887;Running - Rock Climbing
+730;0;3;Miss. Pieta Sofia Ilmakangas;female;16/04/1887;Bird Watching - Gardening - Scuba Diving
+731;1;1;Miss. Elisabeth Walton Allen;female;07/12/1883;Fishing
+732;0;3;Mr. Houssein G N Hassan;male;04/03/1889;Tennis - Running - Chess
+733;0;2;Mr. Robert J Knight;male;21/01/1862;Archery - Rock Climbing - Reading - Library
+734;0;2;Mr. William John Berriman;male;16/03/1889;Cycling - Photography - Running - Shared Cabin
+735;0;2;Mr. Moses Aaron Troupiansky;male;15/03/1889;Cinema - Writing - Crafting - Yoga
+736;0;3;Mr. Leslie Williams;male;28/06/1884;Gluten Free - Fishing
+737;0;3;Mrs. Edward (Margaret Ann Watson) Ford;female;23/03/1864;Rock Climbing - Running - Reading
+738;1;1;Mr. Gustave J Lesurer;male;17/10/1877;Bar - Photography - Gym - Horseback Riding
+739;0;3;Mr. Kanio Ivanoff;male;05/09/1880;Gardening - Shared Cabin
+740;0;3;Mr. Minko Nankoff;male;18/02/1868;Aisle Seat - Fishing - Skiing
+741;1;1;Mr. Walter James Hawksford;male;23/10/1883;Vegan
+742;0;1;Mr. Tyrell William Cavendish;male;09/09/1876;Chess - Painting - Gardening
+743;1;1;"Miss. Susan Parker ""Suzette"" Ryerson";female;20/09/1891;Window Seat - Yoga - Shared Cabin - Rock Climbing
+744;0;3;Mr. Neal McNamee;male;13/10/1888;Dancing
+745;1;3;Mr. Juho Stranden;male;19/07/1881;Library - Cinema - Gardening - Dancing
+746;0;1;Capt. Edward Gifford Crosby;male;05/11/1842;Shared Cabin
+747;0;3;Mr. Rossmore Edward Abbott;male;04/01/1896;Vegan - Non Vegetarian - Running - Surfing
+748;1;2;Miss. Anna Sinkkonen;female;01/03/1882;Vegan - Photography
+749;0;1;Mr. Daniel Warner Marvin;male;01/02/1893;Vegan
+750;0;3;Mr. Michael Connaghton;male;06/05/1881;Cinema - Bar
+751;1;2;Miss. Joan Wells;female;07/08/1896;Board Games
+752;1;3;Master. Meier Moor;male;08/10/1899;Cooking - Reading - Vegan
+753;0;3;Mr. Johannes Joseph Vande Velde;male;01/12/1879;Private Cabin - Cycling - Yoga - Vegan
+754;0;3;Mr. Lalio Jonkoff;male;22/04/1889;Non Vegetarian
+755;1;2;Mrs. Samuel (Jane Laver) Herman;female;26/12/1864;Gardening - Dancing
+756;1;2;Master. Viljo Hamalainen;male;09/07/1887;Painting - Archery - Gardening
+757;0;3;Mr. August Sigfrid Carlsson;male;22/04/1884;Yoga - Painting - Board Games - Archery
+758;0;2;Mr. Percy Andrew Bailey;male;07/04/1894;Gym - Chess - Non Vegetarian
+759;0;3;Mr. Thomas Leonard Theobald;male;07/11/1878;Dancing - Wine Tasting - Running - Pottery
+760;1;1;the Countess. of (Lucy Noel Martha Dyer-Edwards) Rothes;female;20/04/1879;Cooking - Aisle Seat - Private Cabin - Knitting
+761;0;3;Mr. John Garfirth;male;25/12/1883;Library - Archery
+762;0;3;Mr. Iisakki Antino Aijo Nirva;male;04/09/1871;Aisle Seat
+763;1;3;Mr. Hanna Assi Barah;male;16/07/1892;Gardening - Board Games
+764;1;1;Mrs. William Ernest (Lucile Polk) Carter;female;09/11/1876;Aisle Seat
+765;0;3;Mr. Hans Linus Eklund;male;15/06/1896;Gym - Swimming Pool - Chess
+766;1;1;Mrs. John C (Anna Andrews) Hogeboom;female;06/03/1861;Sailing - Scuba Diving - Vegan
+767;0;1;Dr. Arthur Jackson Brewe;male;06/10/1869;Knitting
+768;0;3;Miss. Mary Mangan;female;17/12/1882;Archery - Golf
+769;0;3;Mr. Daniel J Moran;male;26/09/1883;Vegetarian
+770;0;3;Mr. Daniel Danielsen Gronnestad;male;02/01/1880;Stargazing - Tennis - Hiking - Music
+771;0;3;Mr. Rene Aime Lievens;male;13/04/1888;Window Seat - Music - Gluten Free - Writing
+772;0;3;Mr. Niels Peder Jensen;male;21/08/1864;Vegetarian - Bar - Hiking - Aisle Seat
+773;0;2;Mrs. (Mary) Mack;female;22/11/1855;Swimming Pool - Bird Watching - Crafting
+774;0;3;Mr. Dibo Elias;male;18/02/1884;Upper Deck - Private Cabin - Golf
+775;1;2;Mrs. Elizabeth (Eliza Needs) Hocking;female;07/04/1858;Scuba Diving - Painting - Yoga
+776;0;3;Mr. Pehr Fabian Oliver Malkolm Myhrman;male;25/10/1894;Private Cabin
+777;0;3;Mr. Roger Tobin;male;21/03/1893;Cooking
+778;1;3;Miss. Virginia Ethel Emanuel;female;09/10/1895;Fishing - Chess
+779;0;3;Mr. Thomas J Kilgannon;male;15/05/1878;Vegetarian - Yoga
+780;1;1;Mrs. Edward Scott (Elisabeth Walton McMillan) Robert;female;13/10/1869;Scuba Diving - Skiing - Bar - Wine Tasting
+781;1;3;Miss. Banoura Ayoub;female;02/12/1899;Wine Tasting - Horseback Riding
+782;1;1;Mrs. Albert Adrian (Vera Gillespie) Dick;female;14/08/1895;Cinema - Fishing
+783;0;1;Mr. Milton Clyde Long;male;07/07/1883;Reading - Fishing - Knitting - Non Vegetarian
+784;0;3;Mr. Andrew G Johnston;male;10/12/1887;Reading
+785;0;3;Mr. William Ali;male;16/11/1887;Hiking - Meditation
+786;0;3;Mr. Abraham (David Lishin) Harmer;male;01/08/1887;Dancing - Gardening - Horseback Riding - Non Vegetarian
+787;1;3;Miss. Anna Sofia Sjoblom;female;15/09/1894;Gluten Free
+788;0;3;Master. George Hugh Rice;male;23/08/1895;Library - Sailing - Photography - Scuba Diving
+789;1;3;Master. Bertram Vere Dean;male;25/10/1894;Writing - Crafting - Reading - Library
+790;0;1;Mr. Benjamin Guggenheim;male;21/08/1866;Library - Non Vegetarian
+791;0;3;"Mr. Andrew ""Andy"" Keane";male;20/09/1884;Chess - Window Seat
+792;0;2;Mr. Alfred Gaskell;male;02/02/1896;Rock Climbing
+793;0;3;Miss. Stella Anna Sage;female;27/12/1877;Cooking - Reading - Fishing - Hiking
+794;0;1;Mr. William Fisher Hoyt;male;10/11/1875;Archery - Cooking - Rock Climbing - Horseback Riding
+795;0;3;Mr. Ristiu Dantcheff;male;17/05/1887;Photography - Running - Cycling - Meditation
+796;0;2;Mr. Richard Otter;male;07/07/1873;Surfing
+797;1;1;Dr. Alice (Farnham) Leader;female;27/02/1863;Dancing - Library
+798;1;3;Mrs. Mara Osman;female;08/09/1881;Knitting
+799;0;3;Mr. Yousseff Ibrahim Shawah;male;22/08/1882;Pottery - Knitting - Hiking
+800;0;3;Mrs. Jean Baptiste (Rosalie Paula Govaert) Van Impe;female;21/06/1882;Surfing - Wine Tasting - Bird Watching - Non Vegetarian
+801;0;2;Mr. Martin Ponesell;male;16/02/1878;Golf
+802;1;2;Mrs. Harvey (Charlotte Annie Tate) Collyer;female;07/06/1881;Sailing - Scuba Diving - Fishing
+803;1;1;Master. William Thornton II Carter;male;07/10/1895;Tennis - Gardening - Shared Cabin - Cycling
+804;1;3;Master. Assad Alexander Thomas;male;09/11/1896;Fishing - Bird Watching
+805;1;3;Mr. Oskar Arvid Hedman;male;23/03/1885;Dancing
+806;0;3;Mr. Karl Johan Johansson;male;22/12/1881;Reading - Private Cabin - Writing
+807;0;1;Mr. Thomas Jr Andrews;male;20/09/1873;Board Games - Horseback Riding - Crafting - Fishing
+808;0;3;Miss. Ellen Natalia Pettersson;female;22/12/1894;Cooking
+809;0;2;Mr. August Meyer;male;27/09/1873;Sailing - Cinema - Running
+810;1;1;Mrs. Norman Campbell (Bertha Griggs) Chambers;female;12/06/1879;Sailing - Surfing
+811;0;3;Mr. William Alexander;male;28/02/1886;Board Games - Aisle Seat - Upper Deck - Non Vegetarian
+812;0;3;Mr. James Lester;male;03/04/1873;Gym - Upper Deck - Gluten Free - Reading
+813;0;2;Mr. Richard James Slemen;male;14/03/1877;Golf - Photography
+814;0;3;Miss. Ebba Iris Alfrida Andersson;female;19/07/1891;Aisle Seat - Board Games
+815;0;3;Mr. Ernest Portage Tomlin;male;08/01/1882;Upper Deck - Surfing
+816;0;1;Mr. Richard Fry;male;05/08/1869;Reading - Fishing - Writing
+817;0;3;Miss. Wendla Maria Heininen;female;02/01/1889;Running - Non Vegetarian - Hiking
+818;0;2;Mr. Albert Mallet;male;05/08/1881;Library - Skiing - Reading - Hiking
+819;0;3;Mr. John Fredrik Alexander Holm;male;21/01/1869;Private Cabin - Gluten Free - Rock Climbing - Upper Deck
+820;0;3;Master. Karl Thorsten Skoog;male;08/04/1890;Reading - Cinema - Hiking - Scuba Diving
+821;1;1;Mrs. Charles Melville (Clara Jennings Gregg) Hays;female;25/04/1860;Cinema - Stargazing
+822;1;3;Mr. Nikola Lulic;male;17/05/1885;Window Seat - Gluten Free
+823;0;1;Jonkheer. John George Reuchlin;male;19/09/1874;Pottery
+824;1;3;Mrs. (Beila) Moor;female;28/10/1885;Private Cabin
+825;0;3;Master. Urho Abraham Panula;male;09/10/1894;Scuba Diving - Rock Climbing - Writing - Board Games
+826;0;3;Mr. John Flynn;male;25/07/1872;Sailing - Pottery - Writing - Aisle Seat
+827;0;3;Mr. Len Lam;male;22/09/1890;Cooking - Horseback Riding - Gym
+828;1;2;Master. Andre Mallet;male;26/08/1892;Reading - Gluten Free - Bar
+829;1;3;Mr. Thomas Joseph McCormack;male;06/08/1882;Dancing - Tennis - Aisle Seat - Stargazing
+830;1;1;Mrs. George Nelson (Martha Evelyn) Stone;female;18/09/1850;Meditation
+831;1;3;Mrs. Antoni (Selini Alexander) Yasbeck;female;14/01/1897;Painting
+832;1;2;Master. George Sibley Richards;male;06/12/1897;Chess - Vegetarian - Cinema - Reading
+833;0;3;Mr. Amin Saad;male;11/07/1879;Library - Knitting
+834;0;3;Mr. Albert Augustsson;male;26/07/1889;Window Seat - Gardening
+835;0;3;Mr. Owen George Allum;male;22/08/1894;Hiking - Photography
+836;1;1;Miss. Sara Rebecca Compton;female;25/01/1873;Upper Deck - Pottery
+837;0;3;Mr. Jakob Pasic;male;21/07/1891;Board Games
+838;0;3;Mr. Maurice Sirota;male;15/07/1884;Meditation - Yoga - Golf
+839;1;3;Mr. Chang Chip;male;03/03/1880;Bar - Reading
+840;1;1;Mr. Pierre Marechal;male;20/02/1878;Library
+841;0;3;Mr. Ilmari Rudolf Alhomaki;male;24/08/1892;Knitting - Vegetarian - Library - Dancing
+842;0;2;Mr. Thomas Charles Mudd;male;07/07/1896;Wine Tasting
+843;1;1;Miss. Augusta Serepeca;female;08/12/1882;Fishing
+844;0;3;Mr. Peter L Lemberopolous;male;18/12/1878;Gym
+845;0;3;Mr. Jeso Culumovic;male;24/06/1895;Library - Gym
+846;0;3;Mr. Anthony Abbing;male;12/12/1870;Yoga - Stargazing - Fishing
+847;0;3;Mr. Douglas Bullen Sage;male;27/06/1888;Running
+848;0;3;Mr. Marin Markoff;male;09/12/1877;Archery - Reading
+849;0;2;Rev. John Harper;male;16/09/1884;Non Vegetarian - Swimming Pool - Painting - Gluten Free
+850;1;1;Mrs. Samuel L (Edwiga Grabowska) Goldenberg;female;25/09/1892;Vegan - Surfing - Library
+851;0;3;Master. Sigvard Harald Elias Andersson;male;06/10/1893;Meditation - Surfing - Horseback Riding
+852;0;3;Mr. Johan Svensson;male;20/04/1838;Rock Climbing - Pottery
+853;0;3;Miss. Nourelain Boulos;female;28/10/1892;Non Vegetarian - Hiking - Pottery - Vegetarian
+854;1;1;Miss. Mary Conover Lines;female;24/09/1896;Knitting - Meditation - Sailing
+855;0;2;Mrs. Ernest Courtenay (Lilian Hughes) Carter;female;06/09/1868;Wine Tasting
+856;1;3;Mrs. Sam (Leah Rosen) Aks;female;12/10/1894;Aisle Seat - Gardening - Scuba Diving - Tennis
+857;1;1;Mrs. George Dennick (Mary Hitchcock) Wick;female;08/05/1867;Meditation - Private Cabin
+858;1;1;Mr. Peter Denis Daly;male;06/03/1861;Aisle Seat - Cycling - Library
+859;1;3;Mrs. Solomon (Latifa Qurban) Baclini;female;03/09/1888;Surfing
+860;0;3;Mr. Raihed Razi;male;05/12/1892;Yoga - Bar
+861;0;3;Mr. Claus Peter Hansen;male;24/12/1871;Bar
+862;0;2;Mr. Frederick Edward Giles;male;06/07/1891;Bird Watching - Knitting
+863;1;1;Mrs. Frederick Joel (Margaret Welles Barron) Swift;female;23/03/1864;Aisle Seat - Music - Vegetarian - Bar
+864;0;3;"Miss. Dorothy Edith ""Dolly"" Sage";female;15/05/1871;Pottery - Music
+865;0;2;Mr. John William Gill;male;14/09/1888;Aisle Seat - Photography - Vegan
+866;1;2;Mrs. (Karolina) Bystrom;female;18/03/1870;Vegan - Swimming Pool - Tennis - Board Games
+867;1;2;Miss. Asuncion Duran y More;female;02/06/1885;Bird Watching - Aisle Seat - Swimming Pool - Cycling
+868;0;1;Mr. Washington Augustus II Roebling;male;27/12/1881;Archery - Dancing - Horseback Riding
+869;0;3;Mr. Philemon van Melkebeke;male;20/09/1890;Pottery
+870;1;3;Master. Harold Theodor Johnson;male;07/10/1895;Photography
+871;0;3;Mr. Cerin Balkic;male;25/11/1886;Skiing - Swimming Pool - Scuba Diving - Crafting
+872;1;1;Mrs. Richard Leonard (Sallie Monypeny) Beckwith;female;02/10/1865;Bar - Surfing
+873;0;1;Mr. Frans Olof Carlsson;male;10/01/1879;Chess
+874;0;3;Mr. Victor Vander Cruyssen;male;18/08/1865;Golf - Gym
+875;1;2;Mrs. Samuel (Hannah Wizosky) Abelson;female;01/02/1884;Gardening - Non Vegetarian
+876;1;3;"Miss. Adele Kiamie ""Jane"" Najib";female;01/04/1897;Dancing - Swimming Pool
+877;0;3;Mr. Alfred Ossian Gustafsson;male;19/11/1892;Shared Cabin - Gluten Free - Writing
+878;0;3;Mr. Nedelio Petroff;male;11/08/1893;Painting - Swimming Pool - Window Seat
+879;0;3;Mr. Kristo Laleff;male;10/11/1871;Horseback Riding
+880;1;1;Mrs. Thomas Jr (Lily Alexenia Wilson) Potter;female;27/10/1856;Golf - Reading - Knitting
+881;1;2;Mrs. William (Imanita Parrish Hall) Shelley;female;19/05/1887;Gluten Free - Library - Gym
+882;0;3;Mr. Johann Markun;male;02/09/1879;Gluten Free - Swimming Pool
+883;0;3;Miss. Gerda Ulrika Dahlberg;female;11/03/1890;Vegetarian - Cinema - Cycling - Archery
+884;0;2;Mr. Frederick James Banfield;male;07/05/1884;Library - Golf - Bar - Dancing
+885;0;3;Mr. Henry Jr Sutehall;male;26/03/1887;Horseback Riding - Yoga - Window Seat
+886;0;3;Mrs. William (Margaret Norton) Rice;female;23/05/1873;Swimming Pool - Bar
+887;0;2;Rev. Juozas Montvila;male;04/12/1885;Tennis - Crafting - Cinema - Board Games
+888;1;1;Miss. Margaret Edith Graham;female;15/10/1893;Tennis - Horseback Riding - Running - Meditation
+889;0;3;"Miss. Catherine Helen ""Carrie"" Johnston";female;17/02/1892;Pottery - Swimming Pool - Dancing
+890;1;1;Mr. Karl Howell Behr;male;05/11/1886;Swimming Pool
+891;0;3;Mr. Patrick Dooley;male;08/09/1880;Pottery

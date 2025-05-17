@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Titanic",
+      "request": "launch",
+      "mainClass": "Titanic",
+      "projectName": "TP5 - AEDIII - Final_db913dde"
+    },
+    {
+      "type": "java",
+      "name": "Titanic",
+      "request": "launch",
+      "mainClass": "Titanic",
+      "projectName": "TP4 - AEDIII_90dc6c3c"
+    },
+    {
+      "type": "java",
+      "name": "Titanic",
+      "request": "launch",
+      "mainClass": "Titanic",
+      "projectName": "TP3_AEDSIII_a4330c16"
+    },
+    {
+      "type": "java",
+      "name": "Titanic",
+      "request": "launch",
+      "mainClass": "Titanic",
+      "projectName": "TP2_AEDSIII_fee9d15"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/gabia/OneDrive/Documentos/EngComp/3_semestre/Algoritmos e Estruturas de Dados III/TP2_AEDSIII",
+      "program": "c:/Users/gabia/OneDrive/Documentos/EngComp/3_semestre/Algoritmos e Estruturas de Dados III/TP2_AEDSIII/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
