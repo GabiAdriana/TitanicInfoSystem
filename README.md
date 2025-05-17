@@ -1,4 +1,4 @@
-# 📊 TitanicDB – Sistema de Gerenciamento e Análise de Dados Binários do Titanic
+# 📊 TitanicInfoSystem – Sistema de Gerenciamento e Análise de Dados Binários do Titanic
 
 Este projeto tem como objetivo o estudo e implementação de estruturas de dados e técnicas de armazenamento, indexação e manipulação de arquivos binários utilizando como base um conjunto de dados dos passageiros do navio Titanic.
 
